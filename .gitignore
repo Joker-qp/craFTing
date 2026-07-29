@@ -1,0 +1,17 @@
+# Python geçici dosyaları
+__pycache_/
+*.py[cod]
+
+.venv/
+venv/
+
+# Paketleme ve derleme çıktıları
+build/
+disk/
+*.egg-info/
+
+# Not veritabanı ve yerel yapılandırmalar
+*.db
+.crafting_config.json
+.env
+
