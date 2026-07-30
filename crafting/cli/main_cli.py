@@ -59,7 +59,7 @@ def main_callback(ctx: typer.Context):
     [bold cyan]{lbl_search}[/bold cyan] cr search <kelime>
     [bold cyan]{lbl_exp_imp}[/bold cyan] cr export | cr import <dosya>
 
-💡 [italic]{t('tip')}[/italic]     [link=https://github.com] [bold blue]GitHub[/bold blue][/link]
+💡 [italic]{t('tip')}[/italic]     [link=https://github.com/Joker-qp/craFTing] [bold blue]GitHub[/bold blue][/link]
 """
         rprint(guide)
 
